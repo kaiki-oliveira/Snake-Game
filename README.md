@@ -1,4 +1,4 @@
-# <div align="center"> Snake-Game</div>
+# <div align="center"> 🐍Snake-Game</div>
 
 <h1> 📖Sobre </h1>
 <p>O famoso Jogo da Cobrinha (ou Snake Game) com JavaScript.O jogo foi desenvolvido atravez de pesquisas no google, youtube e repositorios no github de outros desenvolvedores.</p>
