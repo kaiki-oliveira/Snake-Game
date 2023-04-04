@@ -3,4 +3,4 @@
 
 <a href="https://kaiki-oliveira.github.io/Snake-Game/" target="_blank">Clique aqui para jogar</a>
 
-<img src="img/" >
+<img src="../img/snake.png" >
